@@ -13,9 +13,9 @@ Converts height from feet/inches to meters and computes BMI using the standard f
 
 - ### Result Feedback
 
-- #### For users 18 and older: displays whether the user is underweight, healthy, or overweight.
+  For users 18 and older: displays whether the user is underweight, healthy, or overweight.
 
-- #### For users under 18: provides guidance to consult a doctor based on the selected gender.
+  For users under 18: provides guidance to consult a doctor based on the selected gender.
 
 - ### Interactive UI
 Includes a responsive calculate button and real-time form validation feedback through toast messages and result text updates.
